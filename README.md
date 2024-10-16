@@ -7,7 +7,7 @@ This is an application designed to help students prepare for the **Germany Hörv
 
 ## Features
 
-- **Multiple Exam Support**: The app includes 25 different Hörverstehen exams, each with three sections (Teil 1, Teil 2, and Teil 3).
+- **Multiple Exam Support**: The app includes 25 different leseverstehen und Sprachbausteine und Hörverstehen exams, each with three sections (Teil 1, Teil 2, and Teil 3).
 - **Automated Feedback**: Instantly see which answers are correct (marked in green) and which are wrong (marked in red) after submitting your answers.
 - **Progression System**: After finishing each Teil, you can move on to the next one or start a new exam when you’ve completed all sections.
 - **End-of-Exam Summary**: After completing all three parts of the exam, you can choose to go to the next exam or finish your practice session.
