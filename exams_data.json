@@ -1,0 +1,167 @@
+{
+  "exams": [
+    {
+      "exam_id": 1,
+      "parts": {
+        "teil1": [
+          {
+            "question": "Question 1 for Teil 1 of Exam 1",
+            "correct": "Richtig"
+          },
+          {
+            "question": "Question 2 for Teil 1 of Exam 1",
+            "correct": "Falsch"
+          },
+          {
+            "question": "Question 1 for Teil 1 of Exam 1",
+            "correct": "Richtig"
+          },
+          {
+            "question": "Question 2 for Teil 1 of Exam 1",
+            "correct": "Falsch"
+          },
+          {
+            "question": "Question 1 for Teil 1 of Exam 1",
+            "correct": "Richtig"
+          }
+      
+        ],
+        "teil2": [
+          {
+            "question": "Question 1 for Teil 2 of Exam 1",
+            "correct": "Falsch"
+          },
+          {
+            "question": "Question 2 for Teil 2 of Exam 1",
+            "correct": "Richtig"
+          },
+          {
+            "question": "Question 1 for Teil 1 of Exam 1",
+            "correct": "Richtig"
+          },
+          {
+            "question": "Question 2 for Teil 1 of Exam 1",
+            "correct": "Falsch"
+          },
+          {
+            "question": "Question 1 for Teil 1 of Exam 1",
+            "correct": "Richtig"
+          },
+          {
+            "question": "Question 2 for Teil 1 of Exam 1",
+            "correct": "Falsch"
+          },
+          {
+            "question": "Question 1 for Teil 1 of Exam 1",
+            "correct": "Richtig"
+          },
+          {
+            "question": "Question 1 for Teil 1 of Exam 1",
+            "correct": "Richtig"
+          },
+          {
+            "question": "Question 2 for Teil 1 of Exam 1",
+            "correct": "Falsch"
+          },
+          {
+            "question": "Question 1 for Teil 1 of Exam 1",
+            "correct": "Richtig"
+          }
+        ],
+        "teil3": [
+          {
+            "question": "Question 1 for Teil 1 of Exam 1",
+            "correct": "Richtig"
+          },
+          {
+            "question": "Question 2 for Teil 1 of Exam 1",
+            "correct": "Falsch"
+          },
+          {
+            "question": "Question 1 for Teil 1 of Exam 1",
+            "correct": "Richtig"
+          },
+          {
+            "question": "Question 2 for Teil 1 of Exam 1",
+            "correct": "Falsch"
+          },
+          {
+            "question": "Question 1 for Teil 1 of Exam 1",
+            "correct": "Richtig"
+          }
+        ]
+      }
+    },
+    {
+      "exam_id": 2,
+      "parts": {
+        "teil1": [
+          {
+            "question": "Question 1 for Teil 1 of Exam 2",
+            "correct": "Falsch"
+          },
+          {
+            "question": "Question 2 for Teil 1 of Exam 2",
+            "correct": "Richtig"
+          }
+        ],
+        "teil2": [
+          {
+            "question": "Question 1 for Teil 2 of Exam 2",
+            "correct": "Richtig"
+          },
+          {
+            "question": "Question 2 for Teil 2 of Exam 2",
+            "correct": "Falsch"
+          }
+        ],
+        "teil3": [
+          {
+            "question": "Question 1 for Teil 3 of Exam 2",
+            "correct": "Richtig"
+          },
+          {
+            "question": "Question 2 for Teil 3 of Exam 2",
+            "correct": "Falsch"
+          }
+        ]
+      }
+    },
+
+    {
+      "exam_id": 25,
+      "parts": {
+        "teil1": [
+          {
+            "question": "Question 1 for Teil 1 of Exam 25",
+            "correct": "Falsch"
+          },
+          {
+            "question": "Question 2 for Teil 1 of Exam 25",
+            "correct": "Richtig"
+          }
+        ],
+        "teil2": [
+          {
+            "question": "Question 1 for Teil 2 of Exam 25",
+            "correct": "Richtig"
+          },
+          {
+            "question": "Question 2 for Teil 2 of Exam 25",
+            "correct": "Falsch"
+          }
+        ],
+        "teil3": [
+          {
+            "question": "Question 1 for Teil 3 of Exam 25",
+            "correct": "Falsch"
+          },
+          {
+            "question": "Question 2 for Teil 3 of Exam 25",
+            "correct": "Richtig"
+          }
+        ]
+      }
+    }
+  ]
+}
